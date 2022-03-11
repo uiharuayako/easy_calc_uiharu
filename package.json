@@ -1,8 +1,9 @@
 {
   "name": "easy_calc_uiharu",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple calculater for homework~",
   "main": "index.js",
+  "homepage": "https://github.com/uiharuayako/easy_calc_uiharu",
   "keywords": [
     "homework"
   ],
